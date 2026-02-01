@@ -22,7 +22,7 @@ const Hero = () => {
     }, []);
 
     return (
-        <section className="relative min-h-screen flex items-center justify-center overflow-hidden bg-black">
+        <section className="mt-10 relative min-h-screen flex items-center justify-center overflow-hidden bg-black">
             {/* Animated gradient orbs */}
             <div className="absolute inset-0 overflow-hidden">
                 <motion.div
