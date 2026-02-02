@@ -35,7 +35,7 @@ const Navbar = () => {
         >
             <div className="max-w-7xl mx-auto flex items-center justify-between">
                 <Link href="/" className="text-2xl font-display font-bold tracking-tighter text-white">
-                    DEV<span className="text-zinc-500">.</span>PY
+                    SOFTWARE<span className="text-zinc-500">.</span>ENG
                 </Link>
 
                 {/* Desktop Nav */}
