@@ -16,10 +16,11 @@ const outfit = Outfit({
   variable: "--font-outfit",
 });
 
-export const metadata: Metadata = {
-  title: "Python Full-Stack Developer | Premium Portfolio",
-  description: "High-end portfolio of a Python Full-Stack Developer specializing in clean architecture and modern web technologies.",
+export const metadata = {
+  title: "BlackOps Portfolio | Keerthivasan",
+  description: "Full Stack Engineer",
 };
+
 
 export default function RootLayout({
   children,
